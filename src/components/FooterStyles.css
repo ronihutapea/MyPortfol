@@ -52,6 +52,7 @@ p {
 
 @media screen and (max-width: 640px) {
   .footer-container {
-    grid-template-columns: repeat(1fr);
+    grid-template-columns: 1fr;
+    grid-gap: 20px;
   }
 }
