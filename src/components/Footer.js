@@ -1,16 +1,12 @@
 import {
   FaFacebook,
   FaHome,
-  FaInstagram,
   FaInstagramSquare,
   FaLinkedin,
   FaMailBulk,
   FaPhone,
-  FaTwitter,
 } from "react-icons/fa";
 import "./FooterStyles.css";
-
-import React from "react";
 
 const Footer = () => {
   return (
